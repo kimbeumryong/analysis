@@ -45,6 +45,7 @@
 // enough that all such attempts are guarded in a try block.
 "use strict";
 
+// 라이브러리 분석 테스트
 var arr = [];
 
 var document = window.document;
